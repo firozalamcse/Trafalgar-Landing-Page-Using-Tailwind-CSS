@@ -35,7 +35,6 @@ The website focuses on responsive layouts, typography, colors, spacing, buttons,
 * HTML5
 * Tailwind CSS  
 
-> No JavaScript is used in this project.
 
 ## 📱 Responsive Design
 
