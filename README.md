@@ -6,7 +6,8 @@ A responsive Trafalgar healthcare landing page built with **HTML** and **Tailwin
 
 * **GitHub Repository:** https://github.com/firozalamcse/Trafalgar-Landing-Page-Using-Tailwind-CSS
 * **Figma Design:** https://www.figma.com/design/el2yaFEXHtUECTarHtHP9N/Trafalgar-Landing-Page--Community-?node-id=0-1
-* **Live Demo:** Add your deployed website link here
+* **Live Demo:** 
+https://firozalamcse.github.io/Trafalgar-Landing-Page-Using-Tailwind-CSS/
 
 ## 📌 Assignment Description
 
